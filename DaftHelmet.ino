@@ -1,4 +1,4 @@
-/* Daft Helmet - v0.9.9.7
+/* Daft Helmet - v1.0.0
    Brett Wilhelm - brett@fraggle.net
    ESP 32/8266 Firmware for Daft Helmet visor display.
 */
