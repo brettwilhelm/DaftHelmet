@@ -22,7 +22,7 @@
 #define ModeCount 5
 const char *my_modes[]        = { "Text", "Traffic Advisor", "Scanner", "Fake Equalizer", "Eyes" };
 
-#define TextCount 4
+#define TextCount 5
 const char *TextName[]        = { "Daft Helmet", "Happy Halloween", "Trick or Treat", "Party At The Cabin", "Spooktacular" };
 const uint8_t *TextData[]     = { tDaftHelmet, tHappyHalloween, tTrickOrTreat, tPartyAtTheCabin, tSpooktacular };
 const uint8_t TextSize[]      = { sizeof(tDaftHelmet), sizeof(tHappyHalloween), sizeof(tTrickOrTreat), sizeof(tPartyAtTheCabin), sizeof(tSpooktacular) };
